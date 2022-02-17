@@ -5,6 +5,7 @@ import java.sql.*;
 public class App
 {
 
+
     public static void main(String[] args)
     {
         // Create new Application
@@ -15,6 +16,7 @@ public class App
 
         // Disconnect from database
         a.disconnect();
+
     }
 
 
